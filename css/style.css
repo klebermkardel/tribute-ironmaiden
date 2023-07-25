@@ -1,0 +1,129 @@
+/* Reset de estilos */
+body, h1, h2, h3, h4, h5, h6, p, blockquote, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #fff; /* Cor de texto principal */
+    background-color: #000; /* Cor de fundo principal */
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .main-title {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #dd2222;
+  }
+  
+  .main-paragraph {
+    font-size: 18px;
+    color: #ccc; /* Cor do texto secundário */
+  }
+  
+  .featured-image {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .featured-image img {
+    max-width: 100%;
+    border-radius: 8px;
+  }
+  
+  .biography-container {
+    padding: 25px 0;
+    border-top: 1px dashed #ccc;
+    border-bottom: 1px dashed #ccc;
+    margin-bottom: 30px;
+  }
+  
+  .biography-container h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #dd2222;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  .quotes-container {
+    padding: 25px 0;
+    margin-bottom: 30px;
+  }
+  
+  .quotes-container blockquote {
+    font-style: italic;
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .quotes-container p {
+    text-align: right;
+    font-size: 14px;
+    color: #ccc; /* Cor do texto secundário */
+  }
+  
+  .curiosities-container {
+    padding: 25px 0;
+    margin-bottom: 30px;
+    border-top: 1px dashed #ccc;
+    border-bottom: 1px dashed #ccc;
+
+  }
+  
+  .curiosities-container h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .curiosities-container li {
+    margin-bottom: 10px;
+  }
+  
+  .img-bold {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .img-bold img {
+    max-width: 100%;
+    border-radius: 8px;
+  }
+  
+  .moreinfo-container {
+    text-align: center;
+  }
+  
+  .moreinfo-container h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .moreinfo-container a {
+    color: #dd2222; /* Cor vermelha do Iron Maiden */
+    text-decoration: none;
+  }
+  
+  .moreinfo-container a:hover {
+    text-decoration: underline;
+  }
+  
